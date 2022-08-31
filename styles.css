@@ -1,1 +1,32 @@
-/* Copy and paste your CSS from CodePen into here */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap');
+
+body {background-image: URL(https://cdn.pixabay.com/photo/2021/09/16/08/56/leaves-6629581_960_720.png);}
+
+.center {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+  }
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 5%;
+  border: 20px solid #fae6f4;}
+
+main {background-color: #e4e6e3;
+        opacity: 90%;}
+
+main {font-family: 'Roboto Slab', serif;
+    color: #2f302f;}
+
+h1 {font-size: 70px;}
+
+h2 {font-size: 50px}
+
+main {font-size: 20px}
+
+a {color: #688058}
+
